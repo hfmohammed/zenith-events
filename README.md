@@ -12,9 +12,9 @@ Feel free to check our Wiki for all documentation related to this app.
 
 Meet the brilliant minds behind Team Zenith:
 
-1. Seif Eldin Metwally (CCID: smetwall)
-2. Hassan Mohammed     (CCID: hfmohamm)
-3. Muaadh Alhamdi      (CCID: muaadh)
-4. Aoun Khan           (CCID: makhan11)
-5. Abdulrahman Khafagy (CCID: akhafagy)
-6. Soban Shoaib        (CCID: msshoaib)
+1. Seif Eldin Metwally
+2. Hassan Mohammed     
+3. Muaadh Alhamdi      
+4. Aoun Khan           
+5. Abdulrahman Khafagy 
+6. Soban Shoaib        
